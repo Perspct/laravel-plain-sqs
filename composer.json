@@ -1,5 +1,5 @@
 {
-    "name": "Perspct/laravel-plain-sqs",
+    "name": "perspct/laravel-plain-sqs",
     "type": "library",
     "description": "Custom SQS connector for Laravel that supports custom format JSON",
     "keywords": ["php","laravel","lumen","sqs","aws"],
